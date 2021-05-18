@@ -37,6 +37,15 @@ const quotes = [
         source: 'Isaac Newton',
         year: 1664,
         citation: 'Certain Philosophical Questions'
+    },
+    {
+        quote: 'We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.',
+        source: 'Buddha'
+    },
+    {
+        quote: "I think what everyone should be doing, before it's too late, is committing themselves to what they really want to do with their lives.",
+        source: 'Matthieu Ricard',
+        citation: 'The Quantum and the Lotus: A Journey to the Frontiers Where Science and Buddhism Meet'
     }
 ]
 /***
